@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **NEXTJS,NODEJS,EXPRESSJS,MONGODB**
 
- 💬 Ask me about **Javascript,HTML,CSS,SCSS,Tailwind CSS,RectJs, Node.js, React,MYSQL, MongoDB...**
+ 💬 Ask me about **Javascript,HTML,CSS,SCSS,Tailwind CSS,RectJs, Node.js, MYSQL, MongoDB...**
 
  ⚡ Fun fact **Like games too much**
  
